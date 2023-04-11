@@ -1,0 +1,10 @@
+* {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --purple-tahto: #644EA0;
+    --green-tahto: #2CAC9F;
+    --backgroundBlack: #393646;
+    background: var(--backgroundBlack);
+}
